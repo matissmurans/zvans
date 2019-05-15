@@ -50,5 +50,11 @@ mans plans: izveidot durvu zvanu kas nosutitu zinu uz telefona aplikaciju.
 
 si nedelas plans bija izjaukt majas durvju zvanu un savienot ar raspberry. izveidot majaslapu kurai pinas signasl.
 
-sis plans neizdwvas jo netikai es sabojaju savas majas zvana korpusu ,bet ari pasu zvanu(laikam salaidu kaut ko uz iso.)
+sis plans neizdwvas jo netikai es sabojaju savas majas zvana korpusu ,bet ari pasu zvanu(laikam salaidu kaut ko uz iso.
 
+![zvans.png](zvans.png)
+si ir mana izveiiiidotamajas lapa uz kuru tiktu nosutits pazinojums par zvana lietosanu.
+
+lidz galam neizdevas sakartot raspberry pikodu un velmes pabeigt so darbu nakotne netiek atmestas. kad bus velme un laiks tadnoteikt to paveiksu jo sada ierice ir loti noderiga.
+man ir labak jaapgust pitona koda rakstisana un kartigi jaizprot si programesanas valoda.galu gala man pasam sev ir japlano savs laiks skolai un uzdotajiem darbiem. ja es butu sacis laicigak stradat piesi projekta tad butu ticis audz talak.
+Matiss Murans.
