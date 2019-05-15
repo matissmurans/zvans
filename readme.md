@@ -36,7 +36,7 @@ sleep(0.1)
 
 
 
-1-15 maijam
+2.nedela 1-15 maijam
 
 komanda:Mtiss 
 komandas nosaukums-zvans
@@ -46,4 +46,9 @@ mans plans: izveidot durvu zvanu kas nosutitu zinu uz telefona aplikaciju.
 
 ![Untitled.png](Untitled.png)
 
-![](images/hatsApp Image 2019-05-15 at 21.53.44.jpeg)
+![zvans.jpeg](zvans.jpeg)
+
+si nedelas plans bija izjaukt majas durvju zvanu un savienot ar raspberry. izveidot majaslapu kurai pinas signasl.
+
+sis plans neizdwvas jo netikai es sabojaju savas majas zvana korpusu ,bet ari pasu zvanu(laikam salaidu kaut ko uz iso.)
+
