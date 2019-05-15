@@ -46,4 +46,4 @@ mans plans: izveidot durvu zvanu kas nosutitu zinu uz telefona aplikaciju.
 
 ![Untitled.png](Untitled.png)
 
-![hatsApp Image 2019-05-15 at 21.53.44.jpeg](hatsApp Image 2019-05-15 at 21.53.44.jpeg)
+
