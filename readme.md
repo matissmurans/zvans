@@ -46,7 +46,7 @@ mans plans: izveidot durvu zvanu kas nosutitu zinu uz telefona aplikaciju.
 
 ![Untitled.png](Untitled.png)
 
-![zvans.jpeg](zvans.jpeg)///////////////////////////
+![poga.png](poga.png)
 
 si nedelas plans bija izjaukt majas durvju zvanu un savienot ar raspberry. izveidot majaslapu kurai pinas signasl.
 
